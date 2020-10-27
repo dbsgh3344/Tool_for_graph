@@ -6,6 +6,8 @@ def plots(nrow_size,ncol_size,plot_size) :
                         nrow_size,  
                         ncolumn_size, 
                         plot_size (tuple_type) 
+
+        return : fig, graph_list (it's axes. input your plot)
                         
     '''
 
